@@ -675,6 +675,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ingresoUsuario: {fileID: 957789800}
+  cartel: {fileID: 2068828747}
+  textomsj: {fileID: 1528982183}
 --- !u!4 &1204874733
 Transform:
   m_ObjectHideFlags: 0
@@ -1292,7 +1294,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9245283, g: 0.06541473, b: 0.06541473, a: 0.392}
+  m_Color: {r: 0.9245283, g: 0.06541473, b: 0.06541473, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
